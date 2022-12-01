@@ -1,0 +1,20 @@
+{
+    "name": "diconium Collectible: Teaser #Collaboration",
+    "description": "The diconium Collectible is an NFT for employees, customers, partners, and friends of diconium.",
+    "image": "https://twire.mypinata.cloud/ipfs/ipfsimageid",
+    "external_url": "https://special.diconium.com/nft",
+    "attributes": [
+        {
+            "trait_type": "Value",
+            "value": "Collaboration"
+        },
+         {
+            "trait_type": "Artist",
+            "value": "Dalhisuka"
+        },
+        {
+            "trait_type": "Christmas",
+            "value": "2022"
+        },
+    ]
+}
